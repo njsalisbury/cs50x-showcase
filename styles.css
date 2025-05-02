@@ -27,3 +27,8 @@ h1 {
     margin: 0;
     padding: 0;
 }
+
+#goof-ups {
+    font-size: 2em;
+    text-align: center;
+}
